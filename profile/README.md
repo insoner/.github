@@ -1,12 +1,14 @@
-# TOP Experts Belong to the Best Companies
+# Match with talents in seconds
 
 ![](https://insoner.io/wp-content/uploads/2023/05/Group-25138.png)
 
-## Unleash the best talents to your best customers
+## Meet the future of recruiting with Insoner
 
-INSONER utilizes advanced data analysis algorithms to match candidates with the most suitable job openings. The platform gathers information from both the candidates and demands, to find the most suitable candidates for the job.
+Say goodbye to the traditional CV 👋 Insoner matches candidates with your opportunities, without the paperwork.
 
-The data is then analyzed and processed to generate a personalized list of the best-suited candidates which are directly presented to customers for each job posting.
+## What is Insoner?
+
+Insoner is a SaaS service that helps sales and recruiting teams manage and match candidates more efficiently. Using smart matching functionality, Insoner can predict your future needs and help your organization make better decisions with the help of data.
 
 <br>
 
@@ -15,21 +17,21 @@ The data is then analyzed and processed to generate a personalized list of the b
 
   <img src="https://i0.wp.com/insoner.io/wp-content/uploads/2023/02/icon-mail.png?resize=29%2C28&ssl=1">
 
-  <strong>Smart Matching</strong>
+  <strong>Automated import</strong>
   
-  Create demands based on your needs and get the best candidates presented. Our matching system increases the chances of having a top talent
+  Collect assignments and CVs from different sources with a single button press and centralize all data under one roof.
 
   <strong>Meeting Schedule</strong>
   
-  Propose time slots for meetings to in advance. Save time and effort by reducing tons of back and forth emails to find a time slot.
+  Propose time slots for meetings in advance. Save time and effort by reducing tons of back-and-forth emails to find a time slot.
 
-  <strong>External Communication</strong>
+  <strong>Smart matching</strong>
   
-  Invite your best customers to INSONER to receive their needs and present your top talents with no hustle, instantly
+  Match the best candidates automatically based on technical requirements and specific customer needs.
 
-  <strong>All Demands. One place</strong>
+  <strong>Predictive insights</strong>
   
-  Recruitment and Consultancy companies can now have one system to communicate and manage all demands
+  Insoner uses AI and predictive analysis to understand future customer needs and market trends.
 </p>
 
 <br>
