@@ -1,6 +1,6 @@
 # Match with talents in seconds
 
-![](https://insoner.io/wp-content/uploads/2023/05/Group-25138.png)
+<img src="https://media.licdn.com/dms/image/sync/D4E22AQE1SU1_xO7Ahg/feedshare-shrink_800/0/1699430725865?e=1703721600&v=beta&t=tk2uRHwXOWOv6AVJlMlSbnMKS7FXzabJ2ML3mfUOB_Q" width="100%">
 
 ## Meet the future of recruiting with Insoner
 
@@ -13,7 +13,6 @@ Insoner is a SaaS service that helps sales and recruiting teams manage and match
 <br>
 
 <p>
-  <br>
 
   <img src="https://i0.wp.com/insoner.io/wp-content/uploads/2023/02/icon-mail.png?resize=29%2C28&ssl=1">
 
