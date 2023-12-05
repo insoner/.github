@@ -1,8 +1,10 @@
-<img src="https://media.licdn.com/dms/image/sync/D4E22AQE1SU1_xO7Ahg/feedshare-shrink_800/0/1699430725865?e=1703721600&v=beta&t=tk2uRHwXOWOv6AVJlMlSbnMKS7FXzabJ2ML3mfUOB_Q" width="100%">
+![image](https://github.com/insoner/.github/assets/72210801/cefd3016-9968-4225-9f31-60249131d0ad)
 
 ## Meet the future of recruiting with Insoner
 
-Say goodbye to the traditional CV 👋 Insoner matches candidates with your opportunities, without the paperwork.
+Say goodbye to the traditional CV 👋
+
+Insoner matches candidates with your opportunities, without the paperwork.
 
 ## What is Insoner?
 
@@ -10,10 +12,8 @@ Insoner is a SaaS service that helps sales and recruiting teams manage and match
 
 <br>
 
+### 📦 Features
 <p>
-
-  <img src="https://i0.wp.com/insoner.io/wp-content/uploads/2023/02/icon-mail.png?resize=29%2C28&ssl=1">
-
   <strong>Automated import</strong>
   
   Collect assignments and CVs from different sources with a single button press and centralize all data under one roof.
@@ -33,7 +33,7 @@ Insoner is a SaaS service that helps sales and recruiting teams manage and match
 
 <br>
 
-### Questions about pricing, plans, and growth?
+### ✉️ Questions about pricing, plans, and growth? 
 
 Send us a message and our sales team experts will be in touch directly.
 
@@ -42,5 +42,5 @@ Send us a message and our sales team experts will be in touch directly.
 <br>
 
 <p align="center">
-  <a href="https://insoner.io/en/"><img src="https://i0.wp.com/insoner.io/wp-content/uploads/2023/02/insoner-logo-light.webp" width=350></a>
+  <a href="https://insoner.io/en/"><img src="https://app.insoner.com/assets/insoner-logo-light.cf61eeda.webp" width=350></a>
 </p>
