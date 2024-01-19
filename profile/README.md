@@ -42,5 +42,5 @@ Send us a message and our sales team experts will be in touch directly.
 <br>
 
 <p align="center">
-  <a href="https://insoner.io/en/"><img src="https://app.insoner.com/assets/insoner-logo-light.cf61eeda.webp" width=350></a>
+  <a href="https://insoner.io/en/"><img src="https://app.insoner.io/assets/insoner-logo-light.cf61eeda.webp" width=350></a>
 </p>
